@@ -1,2 +1,4 @@
-# Git Course Notes
-Learning Git through command line only
+
+## Advanced Features
+- Configuration management
+- Application structure
