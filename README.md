@@ -1,5 +1,3 @@
-# My First Repository
-This is my first Git repository created via command line.
-
-## Files
-- hello.py: Simple Python hello world
+# My First Repository - Updated
+This is my first repository created via command line.
+Modified in main branch
