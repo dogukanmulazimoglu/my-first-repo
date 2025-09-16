@@ -1,0 +1,2 @@
+# Git Course Notes
+Learning Git through command line only
